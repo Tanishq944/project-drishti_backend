@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+pandas
+ultralytics
+python-dotenv
+statsmodels
+
+# optional GCP libs (only needed if you enable cloud)
+google-cloud-storage
+google-cloud-aiplatform
+google-cloud-firestore
